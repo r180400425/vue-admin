@@ -121,10 +121,10 @@
                     },
                     {
                         "title": "设备历史数据",
-                        "name": "devhistory",
+                        "name": "dhistory",
                         "type": "MENU",
-                        "path": "devhistory",
-                        "component": "/datacontrol/devhistory"
+                        "path": "cirhistory",
+                        "component": "/datacontrol/dhistory"
                     },
                     {
                         "title": "统计分析",

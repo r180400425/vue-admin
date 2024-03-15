@@ -1,0 +1,1 @@
+<input type="number" id="currentPage" v-model="currentPage" @input="updatePage" min="1" :max="totalPages" />

@@ -124,7 +124,7 @@
                         "name": "devhistory",
                         "type": "MENU",
                         "path": "devhistory",
-                        "component": "/datacontrol/devhistory"
+                        "component": "/datacontrol/dhistory"
                     },
                     {
                         "title": "统计分析",

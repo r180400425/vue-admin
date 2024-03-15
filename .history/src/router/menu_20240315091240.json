@@ -114,17 +114,17 @@
                 "children": [
                     {
                         "title": "电路历史数据",
-                        "name": "cirhistory",
+                        "name": "chistory",
                         "type": "MENU",
-                        "path": "cirhistory",
-                        "component": "/datacontrol/cirhistory"
+                        "path": "chistory",
+                        "component": "/datacontrol/chistory"
                     },
                     {
                         "title": "设备历史数据",
-                        "name": "devhistory",
+                        "name": "dhistory",
                         "type": "MENU",
-                        "path": "devhistory",
-                        "component": "/datacontrol/devhistory"
+                        "path": "chistory",
+                        "component": "/datacontrol/dhistory"
                     },
                     {
                         "title": "统计分析",

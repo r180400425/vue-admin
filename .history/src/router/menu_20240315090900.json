@@ -114,17 +114,10 @@
                 "children": [
                     {
                         "title": "电路历史数据",
-                        "name": "cirhistory",
+                        "name": "c-historyhistorydata",
                         "type": "MENU",
-                        "path": "cirhistory",
-                        "component": "/datacontrol/cirhistory"
-                    },
-                    {
-                        "title": "设备历史数据",
-                        "name": "devhistory",
-                        "type": "MENU",
-                        "path": "devhistory",
-                        "component": "/datacontrol/devhistory"
+                        "path": "c-history",
+                        "component": "/datacontrol/c-history"
                     },
                     {
                         "title": "统计分析",
